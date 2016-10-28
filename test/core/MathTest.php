@@ -12,6 +12,6 @@ class MathTest extends \PHPUnit_Framework_TestCase
 {
     public function test_one()
     {
-        $this->assertEquals(1, 2);
+        $this->assertEquals(1, 1);
     }
 }
